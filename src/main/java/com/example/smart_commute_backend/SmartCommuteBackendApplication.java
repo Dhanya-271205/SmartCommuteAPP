@@ -1,4 +1,4 @@
-package com.example.smart_commute_backend;
+package com.example.smartcommutebackend;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
