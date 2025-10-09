@@ -8,6 +8,6 @@ class SmartCommuteBackendApplicationTests {
 
 	@Test
 	void contextLoads() {
+		// simple test to check Spring Boot context
 	}
-
 }

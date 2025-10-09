@@ -7,7 +7,9 @@ import com.example.smartcommutebackend.repository.BusRouteRepository;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
+import org.springframework.web.bind.annotation.CrossOrigin;
 
+@CrossOrigin(origins = "http://localhost:5173") // frontend URL
 @RestController
 @RequestMapping("/api/bus")
 public class BusController {
